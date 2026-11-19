@@ -3288,13 +3288,7 @@ export default function App() {
               </button>
             </form>
 
-            <div className="p-3 rounded-xl bg-[#F7FBF8] border border-emerald-900/10 text-[11px] text-[#3D554B] space-y-1">
-              <div className="font-bold text-[#155C3B]">Tài khoản mẫu sẵn có (Mật khẩu bất kỳ ≥ 4 ký tự):</div>
-              <div>• Khách hàng: <code className="font-mono font-bold">kien.hoang@gmail.com</code></div>
-              <div>• Shop Đối tác: <code className="font-mono font-bold">shop@greenstyle.vn</code></div>
-              <div>• Vận chuyển 3PL: <code className="font-mono font-bold">hub@vanchuyen3pl.vn</code></div>
-              <div>• Quản trị Admin: <code className="font-mono font-bold">admin@returnpack.id.vn</code></div>
-            </div>
+          
           </div>
         </div>
       </div>
